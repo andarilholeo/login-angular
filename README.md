@@ -1,8 +1,8 @@
 # Projeto Fullstack: Login Angular e Backend .NET
 
 Este repositório contém dois projetos principais:
-- `login-angular-frontend`: O front-end desenvolvido com Angular.
-- `login-angular-backend`: O back-end desenvolvido com .NET.
+- `login-angular-frontend`: O front-end desenvolvido com Angular 10.
+- `login-angular-backend`: O back-end desenvolvido com .NET 6.
 
 ## Estrutura do Projeto
 
